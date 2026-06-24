@@ -149,4 +149,4 @@ Through this project, I learned:
 
 Vanshika Gupta
 
-Electrical Engineering Student
+EE(CS)
